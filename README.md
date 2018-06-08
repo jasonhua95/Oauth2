@@ -1,5 +1,7 @@
 # Oauth2.0 认证的Web api
-非常简单的OAuth2认证Demo，首次启动的时候会加载管理NuGet，保持网络链接
+非常简单的OAuth2认证Demo，首次启动的时候会加载管理NuGet，保持网络链接  
+
+![流程图](https://github.com/jasonhua95/Oauth2/blob/master/WebOauth2.svg)
 
 ### VS创建过程
 1. 新建Web项目
